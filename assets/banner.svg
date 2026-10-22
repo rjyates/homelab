@@ -10,14 +10,4 @@
     <text x="68" y="169" font-size="24" fill="#f2cdcd">Useful systems for everyday life.</text>
     <text x="68" y="204" font-size="15" fill="#a6adc8">Automation · Integration · Knowledge · Thoughtful design</text>
   </g>
-  <g fill="none" stroke="#9399b2" stroke-width="2" opacity=".6">
-    <path d="M934 118L848 65M934 118l86-53M934 118l-86 60M934 118l86 60"/>
-  </g>
-  <g stroke="#45475a" stroke-width="2">
-    <rect x="907" y="91" width="54" height="54" rx="16" fill="#cba6f7"/>
-    <rect x="829" y="46" width="38" height="38" rx="11" fill="#f2cdcd"/>
-    <rect x="1001" y="46" width="38" height="38" rx="11" fill="#b4befe"/>
-    <rect x="829" y="159" width="38" height="38" rx="11" fill="#a6e3a1"/>
-    <rect x="1001" y="159" width="38" height="38" rx="11" fill="#f5c2e7"/>
-  </g>
 </svg>
